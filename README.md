@@ -1,0 +1,1 @@
+A C# console application that showcases the use of Unicode characters, specifically emojis, within a console environment and demonstrates basic HTTP request handling by fetching content from a specified URL. The application prints a series of emojis to the console and attempts to retrieve text from an online source, handling common HTTP errors gracefully.
