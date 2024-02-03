@@ -1,0 +1,14 @@
+/Users/swifty/Example1/bin/Debug/net8.0/Example1
+/Users/swifty/Example1/bin/Debug/net8.0/Example1.deps.json
+/Users/swifty/Example1/bin/Debug/net8.0/Example1.runtimeconfig.json
+/Users/swifty/Example1/bin/Debug/net8.0/Example1.dll
+/Users/swifty/Example1/bin/Debug/net8.0/Example1.pdb
+/Users/swifty/Example1/obj/Debug/net8.0/Example1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/swifty/Example1/obj/Debug/net8.0/Example1.AssemblyInfoInputs.cache
+/Users/swifty/Example1/obj/Debug/net8.0/Example1.AssemblyInfo.cs
+/Users/swifty/Example1/obj/Debug/net8.0/Example1.csproj.CoreCompileInputs.cache
+/Users/swifty/Example1/obj/Debug/net8.0/Example1.dll
+/Users/swifty/Example1/obj/Debug/net8.0/refint/Example1.dll
+/Users/swifty/Example1/obj/Debug/net8.0/Example1.pdb
+/Users/swifty/Example1/obj/Debug/net8.0/Example1.genruntimeconfig.cache
+/Users/swifty/Example1/obj/Debug/net8.0/ref/Example1.dll
